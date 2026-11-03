@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+
+# Environment variables (CRITICAL)
+.env
+.env.*
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Uploaded files
+uploads/
+
+# VS Code
+.vscode/
